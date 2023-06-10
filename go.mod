@@ -1,3 +1,3 @@
-module github.com/swaggo/files/v2
+module github.com/zskzskabcd/swaggo-knife4j-files
 
 go 1.16
